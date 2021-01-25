@@ -1,0 +1,46 @@
+.header {
+    background: #fff;
+}
+
+.content {
+    background: #fff;
+}
+
+.menu {
+   background: rgb(66, 16, 206); 
+}
+
+.soon {
+  padding: 120px;
+  text-align: center;
+  background: #1abc9c;
+  color: rgb(102, 10, 56);
+  font-size: 23px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.profileText {
+  padding: 5px;
+  text-align: center;
+  color: rgb(54, 52, 53);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.addressText {
+  left: 0%;
+  color: rgb(54, 52, 53);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout {
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.v1 {
+border-left: 2px solid rgb(174, 180, 176);
+height: 550px;
+}
